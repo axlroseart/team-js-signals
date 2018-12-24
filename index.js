@@ -1,0 +1,1 @@
+module.exports = require('./lib/team-js-signals.js')
